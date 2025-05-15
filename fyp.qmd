@@ -1,0 +1,18 @@
+---
+title: "AI Traffic Prediction System"
+---
+
+## Project Overview
+
+> "This project aims to optimize urban traffic flow using LSTM networks." - Project Advisor
+
+**Key Features**: 1. Real-time data processing 2. Predictive analytics dashboard 3. API integration with LTA
+
+``` python
+# Sample code: Data preprocessing
+import pandas as pd
+def clean_traffic_data(df):
+    return df.interpolate().resample('30T').mean()
+```
+
+![System Architecture](fyp_arch.png){width="90%"}

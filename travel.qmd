@@ -1,0 +1,8 @@
+---
+title: "Japan Travel Diary"
+---
+
+## Itinerary
+1. Tokyo: Visited Shibuya Crossing
+   ![Shibuya](shibuya.jpg){width=70%}
+2. Kyoto: Fushimi Inari Shrine

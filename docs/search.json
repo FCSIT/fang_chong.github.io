@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Personal Website",
+    "section": "",
+    "text": "My Photo"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Personal Website",
+    "section": "About Me",
+    "text": "About Me\n\n🎓 Education: Computer Science at Singapore Institute of Technology\n\n💻 Skills: Python, Data Analysis, Machine Learning\n\n🌱 Currently Learning: Advanced AI Techniques\n\n```{python} # Interactive skills chart import matplotlib.pyplot as plt skills = [‘Python’, ‘R’, ‘SQL’] levels = [85, 70, 65] plt.barh(skills, levels, color=‘#3498db’) plt.title(‘My Skill Levels’) plt.show()"
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "Japan Travel Diary",
+    "section": "",
+    "text": "Tokyo: Visited Shibuya Crossing \nKyoto: Fushimi Inari Shrine"
+  },
+  {
+    "objectID": "travel.html#itinerary",
+    "href": "travel.html#itinerary",
+    "title": "Japan Travel Diary",
+    "section": "",
+    "text": "Tokyo: Visited Shibuya Crossing \nKyoto: Fushimi Inari Shrine"
+  },
+  {
+    "objectID": "learning.html",
+    "href": "learning.html",
+    "title": "My Learning Journey",
+    "section": "",
+    "text": "Python Data Science Handbook\nCompleted Quarto Tutorial"
+  },
+  {
+    "objectID": "learning.html#helpful-resources",
+    "href": "learning.html#helpful-resources",
+    "title": "My Learning Journey",
+    "section": "",
+    "text": "Python Data Science Handbook\nCompleted Quarto Tutorial"
+  },
+  {
+    "objectID": "learning.html#code-snippets",
+    "href": "learning.html#code-snippets",
+    "title": "My Learning Journey",
+    "section": "Code Snippets",
+    "text": "Code Snippets\nprint(\"Hello World!\") was my first program."
+  },
+  {
+    "objectID": "fyp.html",
+    "href": "fyp.html",
+    "title": "AI Traffic Prediction System",
+    "section": "",
+    "text": "“This project aims to optimize urban traffic flow using LSTM networks.” - Project Advisor\n\nKey Features: 1. Real-time data processing 2. Predictive analytics dashboard 3. API integration with LTA\n# Sample code: Data preprocessing\nimport pandas as pd\ndef clean_traffic_data(df):\n    return df.interpolate().resample('30T').mean()\n\n\n\nSystem Architecture"
+  },
+  {
+    "objectID": "fyp.html#project-overview",
+    "href": "fyp.html#project-overview",
+    "title": "AI Traffic Prediction System",
+    "section": "",
+    "text": "“This project aims to optimize urban traffic flow using LSTM networks.” - Project Advisor\n\nKey Features: 1. Real-time data processing 2. Predictive analytics dashboard 3. API integration with LTA\n# Sample code: Data preprocessing\nimport pandas as pd\ndef clean_traffic_data(df):\n    return df.interpolate().resample('30T').mean()\n\n\n\nSystem Architecture"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "GenAI Reflection",
+    "section": "",
+    "text": "Tool Used: ChatGPT & GitHub Copilot\nBenefits: - Automated code debugging - Quick documentation lookup\nChallenges: - Sometimes generates incorrect syntax - Requires careful verification"
+  },
+  {
+    "objectID": "reflection.html#my-experience",
+    "href": "reflection.html#my-experience",
+    "title": "GenAI Reflection",
+    "section": "",
+    "text": "Tool Used: ChatGPT & GitHub Copilot\nBenefits: - Automated code debugging - Quick documentation lookup\nChallenges: - Sometimes generates incorrect syntax - Requires careful verification"
+  }
+]

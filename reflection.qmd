@@ -1,0 +1,13 @@
+---
+title: "GenAI Reflection"
+---
+
+## My Experience
+**Tool Used**: ChatGPT & GitHub Copilot  
+**Benefits**:
+- Automated code debugging
+- Quick documentation lookup
+
+**Challenges**:
+- Sometimes generates incorrect syntax
+- Requires careful verification

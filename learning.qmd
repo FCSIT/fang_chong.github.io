@@ -1,0 +1,10 @@
+---
+title: "My Learning Journey"
+---
+
+## Helpful Resources
+- [ ] [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [x] Completed Quarto Tutorial
+
+## Code Snippets
+`print("Hello World!")` was my first program.
