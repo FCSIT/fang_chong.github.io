@@ -15,7 +15,9 @@ website:
       - href: learning.qmd
         text: "Learning"   
       - href: travel.qmd   
-        text: "Travel"
+        text: "travel"
+      - href: reflection.qmd   
+        text: "reflection"
 
 format:
   html:

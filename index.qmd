@@ -2,8 +2,12 @@
 title: "Welcome to My Personal Website"
 ---
 
-![My Photo](profile.jpg){.rounded width="200px"}
+![My Photo](trap.png){.rounded width="200px"}
+![SIT LOGO](sit.png){width=100% .border}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rphrFDf00mk" 
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 ## About Me
 
 -   🎓 **Education**: Computer Science at Singapore Institute of Technology\
