@@ -7,7 +7,7 @@ title: "Welcome to My Personal Website"
 ## About Me
 
 -   🎓 **Education**: Computer Science at Singapore Institute of Technology\
--   💻 **Skills**: Python, Data Analysis, Machine Learning\
+-   💻 **Skills**: Python, Data Analysis, Statistics, Machine Learning\
 -   🌱 **Currently Learning**: Advanced AI Techniques
 
 \`\`\`{python} \# Interactive skills chart import matplotlib.pyplot as plt skills = \['Python', 'R', 'SQL'\] levels = \[85, 70, 65\] plt.barh(skills, levels, color='#3498db') plt.title('My Skill Levels') plt.show()

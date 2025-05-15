@@ -18,7 +18,7 @@
     "href": "index.html#about-me",
     "title": "Welcome to My Personal Website",
     "section": "About Me",
-    "text": "About Me\n\n🎓 Education: Computer Science at Singapore Institute of Technology\n\n💻 Skills: Python, Data Analysis, Machine Learning\n\n🌱 Currently Learning: Advanced AI Techniques\n\n```{python} # Interactive skills chart import matplotlib.pyplot as plt skills = [‘Python’, ‘R’, ‘SQL’] levels = [85, 70, 65] plt.barh(skills, levels, color=‘#3498db’) plt.title(‘My Skill Levels’) plt.show()"
+    "text": "About Me\n\n🎓 Education: Computer Science at Singapore Institute of Technology\n\n💻 Skills: Python, Data Analysis, Statistics, Machine Learning\n\n🌱 Currently Learning: Advanced AI Techniques\n\n```{python} # Interactive skills chart import matplotlib.pyplot as plt skills = [‘Python’, ‘R’, ‘SQL’] levels = [85, 70, 65] plt.barh(skills, levels, color=‘#3498db’) plt.title(‘My Skill Levels’) plt.show()"
   },
   {
     "objectID": "travel.html",
